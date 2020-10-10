@@ -1,0 +1,27 @@
+body {
+    background-color:#FFF67D;
+}
+
+.highScore {
+    text-align: left; 
+    font-family: "Julius Sans One", sans-serif, bold;
+    font-style: bold;
+}
+
+.timelift {
+    text-align: left;
+    font-family: "Julius Sans One", sans-serif, bold;
+    font-style: bold;
+}
+
+.jsCodeQuiz {
+    font-family: "Shrikhand", cursive, bold;
+}
+
+.clickButton {
+    font-family: "poppins", sans-serif;
+}
+
+.startQuiz {
+    font-family: "poppins", sans-serif;
+}
